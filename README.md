@@ -5,6 +5,9 @@
 ## We got good result with Xgboost ML model. Hence final submission file has predictions from xgboost model.
 Predicted Submission file name: xgboost_n_est_200_submission_file.csv
 
+## For EDA on Dataset:
+Refer: EDA.ipynb file.
+
 ## To Preprocess & Train Model:
 Refer Test_Train.ipynb
 
